@@ -4,14 +4,6 @@ def turn_right():
     turn_left()
     turn_left()
 
-def move_three():
-    move()
-    move()
-    move()
-def turn_around():
-    turn_left()
-    turn_left()
-
 def jump():
     move()
     turn_left()
